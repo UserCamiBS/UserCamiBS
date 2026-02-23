@@ -16,8 +16,6 @@
 
 ---
 
-### 🔍 Sobre mim
-
 Profissional com experiência em suporte técnico, validação de dados e análise de inconsistências sistêmicas.  
 Vivência prática com integração entre plataformas (ERP, estoque, site e logística).  
 
@@ -29,13 +27,6 @@ Atualmente aprofundando conhecimentos em:
 
 ---
 
-### 🚀 Projetos em Destaque
-
-- 🔗 Automação E2E com Cypress (SauceDemo)
-- 🔗 Bug Report – EBAC Shop
-- 🔗 Técnicas de Teste (Equivalência, Valor Limite, Decisão, Estado)
-- 🔗 Análise Qualitativa de Produto
- 
  <br>
  
   ### Contatos:
