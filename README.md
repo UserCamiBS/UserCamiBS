@@ -16,10 +16,7 @@
 
 ---
 
-Profissional com experiência em suporte técnico, validação de dados e análise de inconsistências sistêmicas.  
-Vivência prática com integração entre plataformas (ERP, estoque, site e logística).  
-
-Atualmente aprofundando conhecimentos em:
+## Atualmente aprofundando conhecimentos em:
 - Testes funcionais
 - Automação E2E com Cypress
 - Técnicas de teste (caixa-preta)
